@@ -15,7 +15,7 @@ Have a nice day, and thanks for reading!
 - Bash
 - SQL
 
-##### Contact:
+### Contact:
 Putting this here just in case someone wants to contact me for some reason. If you are looking at an archive of this page there is a possibility that it changed or I stuck a knife in a toaster (which is unlikely).
 
 `justinspubliccontact [at] gmail [dot] com`
