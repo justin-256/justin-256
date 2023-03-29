@@ -1,5 +1,5 @@
 # About me
-I am a beginner programmer. I do not plan on having a career in IT, I am more interested in electrical engineering. I decided to learn programming to help with embedded systems and microcontrollers. I love open-source hardware and software because when I was just getting started, I copied a lot of code and designs. Most of the things I make are things I publish for anyone to use or edit (with credit added please!). I hate paywalls, even though they make complete sense (you gotta make money somehow, right?). 
+I am a beginner programmer. I do not plan on having a career in IT, I am more interested in electrical engineering. I decided to learn programming to help with embedded systems and microcontrollers. I love open-source hardware and software because when I was just getting started, I copied a lot of code and designs. Most of the things I make are things I publish for anyone to use or edit. 
 
 Have a nice day, and thanks for reading!
 
